@@ -1,6 +1,6 @@
 cask "easyclipboard" do
-  version "2.0.4"
-  sha256 "aea83b319ad7c7a160745df3c1764931901cec5bc74291fd4290296d9e6f668b"
+  version "2.0.5"
+  sha256 "84d83341f4bbb93978c897ef8981550b55382ff6b62fb60fc0dd23bd8f31d659"
 
   url "https://easyclipboard.app/download/EasyClipboard.dmg"
   name "EasyClipboard"
